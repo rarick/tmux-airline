@@ -1,6 +1,6 @@
 # rarick/tmux-airline
 
-A tmux airline theme which uses the terminal colors
+A tmux airline theme which uses the terminal color scheme
 
 ## Installation
 
